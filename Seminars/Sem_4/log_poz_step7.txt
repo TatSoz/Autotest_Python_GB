@@ -1,0 +1,7 @@
+авг 18 22:20:05 gb-VirtualBox snapd-desktop-i[109479]: Detected new session 1335 at /org/freedesktop/login1/session/_31335
+авг 18 22:20:05 gb-VirtualBox snapd-desktop-i[109479]: Detected new session 1336 at /org/freedesktop/login1/session/_31336
+авг 18 22:20:05 gb-VirtualBox snapd-desktop-i[109479]: Detected new session 1337 at /org/freedesktop/login1/session/_31337
+авг 18 22:20:06 gb-VirtualBox snapd-desktop-i[109479]: Detected new session 1338 at /org/freedesktop/login1/session/_31338
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.

@@ -1,0 +1,18 @@
+авг 18 22:19:43 gb-VirtualBox snapd-desktop-i[109479]: Detected new session 1274 at /org/freedesktop/login1/session/_31274
+авг 18 22:19:43 gb-VirtualBox snapd-desktop-i[109479]: Detected new session 1275 at /org/freedesktop/login1/session/_31275
+авг 18 22:19:43 gb-VirtualBox dbus-daemon[109128]: [session uid=1002 pid=109128] Activating via systemd: service name='org.freedesktop.Tracker3.Miner.Extract' unit='tracker-extract-3.service' requested by ':1.9' (uid=1002 pid=109239 comm="/usr/libexec/tracker-miner-fs-3 " label="unconfined")
+авг 18 22:19:43 gb-VirtualBox systemd[109082]: Starting Tracker metadata extractor...
+авг 18 22:19:43 gb-VirtualBox snapd-desktop-i[109479]: Detected new session 1276 at /org/freedesktop/login1/session/_31276
+авг 18 22:19:43 gb-VirtualBox dbus-daemon[109128]: [session uid=1002 pid=109128] Successfully activated service 'org.freedesktop.Tracker3.Miner.Extract'
+авг 18 22:19:43 gb-VirtualBox systemd[109082]: Started Tracker metadata extractor.
+авг 18 22:19:44 gb-VirtualBox sudo[110851]:    user2 : PWD=/home/user2 ; USER=root ; COMMAND=/usr/bin/dpkg -i /home/user2/p7zip-full.deb
+авг 18 22:19:44 gb-VirtualBox sudo[110851]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1002)
+авг 18 22:19:45 gb-VirtualBox sudo[110851]: pam_unix(sudo:session): session closed for user root
+авг 18 22:19:45 gb-VirtualBox snapd-desktop-i[109479]: Detected new session 1277 at /org/freedesktop/login1/session/_31277
+авг 18 22:19:45 gb-VirtualBox sudo[110922]:    user2 : PWD=/home/user2 ; USER=root ; COMMAND=/usr/bin/dpkg -s p7zip-full
+авг 18 22:19:45 gb-VirtualBox sudo[110922]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1002)
+авг 18 22:19:45 gb-VirtualBox sudo[110922]: pam_unix(sudo:session): session closed for user root
+авг 18 22:19:45 gb-VirtualBox snapd-desktop-i[109479]: Detected new session 1278 at /org/freedesktop/login1/session/_31278
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
